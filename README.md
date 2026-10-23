@@ -1,1 +1,0 @@
-# muse canary write test
